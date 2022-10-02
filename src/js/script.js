@@ -1,4 +1,4 @@
-const navbar = document.querySelector("[data-navbar]");
+const navbar = document.querySelector("[.navbar]");
 const navToggle = document.querySelector(".hamburger-btn");
 
 navToggle.addEventListener("click", () => {
